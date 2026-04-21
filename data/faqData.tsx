@@ -8,12 +8,12 @@ const faqs: FAQ[] = [
 	{
 		title: "What is HackRPI?",
 		content:
-			"Teams of 1-4 have 24 hours to build a project relating to our theme Retro V. Modern. Teams will then present their projects, and the best projects win prizes!",
+			"Teams of 1-4 have 24 hours to build a project relating to our theme In the Clouds. Teams will then present their projects, and the best projects win prizes!",
 	},
 	{
 		title: "When is HackRPI?",
 		content:
-			"HackRPI takes place on November 15th and 16th, 2025. Arrival and check-in takes place from 9-10 AM. Our opening ceremony starts at 10 AM, and hacking begins at 11am. Your projects must be on Devpost by 10 AM Sunday, and all coding must stop at 11 AM Sunday. Teams will present, and the event will end around 4PM on Sunday. We are excited to see you there!",
+			"HackRPI takes place on November 7th and 8th, 2026. Arrival and check-in takes place from 9-10 AM. Our opening ceremony starts at 10 AM, and hacking begins at 11am. Your projects must be on Devpost by 10 AM Sunday, and all coding must stop at 11 AM Sunday. Teams will present, and the event will end around 4PM on Sunday. We are excited to see you there!",
 	},
 	{
 		title: "Where is HackRPI?",
@@ -70,7 +70,7 @@ const faqs: FAQ[] = [
 		title: "What is the theme?",
 		//TODO: Change the description
 		content:
-			"The theme for 2025's HackRPI is Retro vs Modern. In a world where nostalgia meets innovation, our 12th annual hackathon, Retro vs Modern, invites creators to explore the contrasts and possibilities between the past and the future. Join us in shaping the future through a creative lens that honors the old while embracing the new.",
+			"The theme for 2025's HackRPI is In the clouds. GET NEW DESCRIPTION FROM MARKETING",
 	},
 	{
 		title: "Is it okay if I am late to the event?",

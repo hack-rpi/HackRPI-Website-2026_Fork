@@ -133,7 +133,7 @@ export default function Page() {
 
 				{state === "loaded" && (
 					<div className="flex flex-col items-start w-full h-fit mb-8">
-						<h1 className="text-2xl xs:text-3xl sm:text-4xl font-bold text-center">Saturday, November 15, 2025</h1>
+						<h1 className="text-2xl xs:text-3xl sm:text-4xl font-bold text-center">Saturday, November 7, 2026</h1>
 						<p>Click / Tap any event for more info!</p>
 						<hr className="w-full border-grey my-4" />
 
@@ -148,7 +148,7 @@ export default function Page() {
 
 						<div className="h-4"></div>
 
-						<h1 className="text-2xl xs:text-3xl sm:text-4xl font-bold text-center">Sunday, November 16, 2025</h1>
+						<h1 className="text-2xl xs:text-3xl sm:text-4xl font-bold text-center">Sunday, November 8, 2026</h1>
 						<p>Click / Tap any event for more info!</p>
 						<hr className="w-full border-grey my-4" />
 

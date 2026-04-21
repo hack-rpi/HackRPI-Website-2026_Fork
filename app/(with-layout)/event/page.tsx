@@ -93,7 +93,7 @@ function EventPage() {
 						<div className="container flex flex-col items-start p-4">
 							<h2 className="font-retro text-2xl mb-4 text-white">EVENT DISCORD</h2>
 							<p className="text-xl mb-8 text-white">
-								Join the HackRPI 2025 Discord server to stay connected and make the most of your hackathon experience!
+								Join the HackRPI 2026 Discord server to stay connected and make the most of your hackathon experience!
 								Have questions for the staff? Want to chat with other participants? Looking for a team? Join the
 								conversation on Discord and get the support you need to succeed at HackRPI.
 							</p>
