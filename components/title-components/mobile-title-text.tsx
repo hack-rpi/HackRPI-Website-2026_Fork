@@ -70,7 +70,7 @@ export default function TitleText() {
 						style={{ top: "90%", left: "10%" }}
 						data-testid="event-date"
 					>
-						November 15-16, 2025 &#8226; Troy, NY
+						November 7-8, 2026 &#8226; Troy, NY
 					</span>
 				</h1>
 				<h1>
@@ -78,7 +78,7 @@ export default function TitleText() {
 						className="absolute text-[5vw] font-modern font-extrabold drop-shadow-lg text-white"
 						style={{ top: "43%", left: "26%" }}
 					>
-						Retro V. Modern
+						In the Clouds
 					</span>
 				</h1>
 			</div>

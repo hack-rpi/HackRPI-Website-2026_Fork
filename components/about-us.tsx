@@ -30,8 +30,8 @@ export default function AboutUs() {
 					</h1>
 					<div className="w-11/12">
 						<p className="pb-3 text-hackrpi-light-purple">
-							HackRPI 2025 is Rensselaer Polytechnic Institute&apos;s 12th annual intercollegiate hackathon hosted by
-							students for students. Starting at noon on Saturday, November 15th, teams of 1-4 people have 24 hours to
+							HackRPI 2026 is Rensselaer Polytechnic Institute&apos;s 13th annual intercollegiate hackathon hosted by
+							students for students. Starting at noon on Saturday, November 7th, teams of 1-4 people have 24 hours to
 							build and submit projects relating to our theme,{" "}
 							<span data-testid="theme-title" className="text-hackrpi-light-purple font-bold">
 								Retro vs. Modern
@@ -42,9 +42,9 @@ export default function AboutUs() {
 
 						<p className="pb-3 text-hackrpi-pink">
 							<span data-testid="theme-description" className="text-hackrpi-primary-dark-purple font-bold">
-								Retro vs. Modern:
+								In the Clouds:
 							</span>{" "}
-							In a world where nostalgia meets innovation, our 12th annual hackathon, Retro vs Modern, invites creators
+							GET DESCRIPTION: In a world where nostalgia meets innovation, our 12th annual hackathon, Retro vs Modern, invites creators
 							to explore the contrasts and possibilities between the past and the future. Join us in shaping the future
 							through a creative lens that honors the old while embracing the new.
 						</p>
